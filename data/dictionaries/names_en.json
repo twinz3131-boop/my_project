@@ -1,0 +1,5 @@
+{
+  "male_first_names": ["John", "Michael", "David", "James", "Robert", "William", "Daniel", "Thomas", "Matthew", "Charles"],
+  "female_first_names": ["Mary", "Jennifer", "Linda", "Patricia", "Elizabeth", "Susan", "Jessica", "Sarah", "Karen", "Emily"],
+  "last_names": ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez"]
+}
